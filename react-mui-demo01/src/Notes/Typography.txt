@@ -1,0 +1,6 @@
+Typography:
+Typography basically deals with style and appearance of your text on your website. 
+If your website has text content with way too many styles or font sizes, it sort of spoiles the UI. To address this concern material UI procides typography levels.
+Each level has a definite font size, font weight and line height.
+Let us take a closure look different typography levels
+Go through the ./src/components/MUITypography.tsx file
